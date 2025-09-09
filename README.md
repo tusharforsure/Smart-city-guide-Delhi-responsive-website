@@ -1,10 +1,10 @@
 **INPUT AND OUTPUT SCREENS**
 
-![](/images/image_1.png)
+![](/screenshot/image_1.png)
 
 **Fig 8.1 : Login Page**
 
-![](/images/image_2.png)
+![](/screenshot/image_2.png)
 
 **Fig 8.2 : Register Page**
 
